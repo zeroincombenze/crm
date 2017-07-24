@@ -3,17 +3,19 @@
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/crm/badge.svg?branch=10.0)](https://coveralls.io/github/zeroincombenze/crm?branch=10.0)
 [![codecov](https://codecov.io/gh/zeroincombenze/crm/branch/10.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/crm/branch/10.0)
 [![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-10.svg)](https://github.com/OCA/crm/tree/10.0)
-[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/dev/10.0)
-[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/man/)
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+================================================================================================
+
 CRM addons for Odoo
-===================
 
 [//]: # (addons)
 
 Available addons
-----------------
 addon | version | summary
 --- | --- | ---
 [calendar_resource](calendar_resource/) | 10.0.1.0.0 | New features to facilitate resource management with meetings.
@@ -28,7 +30,6 @@ addon | version | summary
 
 
 Unported addons
----------------
 addon | version | summary
 --- | --- | ---
 [crm_action](crm_action/) | 8.0.1.1.0 (unported) | CRM Action
