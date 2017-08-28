@@ -10,12 +10,15 @@
 
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 ================================================================================================
+================================================================================================
 
 CRM addons for Odoo
 
 [//]: # (addons)
 
+
 Available addons
+----------------
 addon | version | summary
 --- | --- | ---
 [calendar_resource](calendar_resource/) | 10.0.1.0.0 | New features to facilitate resource management with meetings.
@@ -30,6 +33,7 @@ addon | version | summary
 
 
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [crm_action](crm_action/) | 8.0.1.1.0 (unported) | CRM Action
