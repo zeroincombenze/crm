@@ -16,7 +16,9 @@ CRM addons for Odoo
 
 [//]: # (addons)
 
+
 Available addons
+----------------
 addon | version | summary
 --- | --- | ---
 [crm_action](crm_action/) | 9.0.1.0.1 | Adds action management in CRM
@@ -34,6 +36,7 @@ addon | version | summary
 
 
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [crm_lead_address_street3](crm_lead_address_street3/) | 8.0.0.1.0 (unported) | Street3 in lead addresses
