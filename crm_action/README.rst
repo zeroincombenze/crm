@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 CRM Action
 ==========
@@ -21,10 +21,12 @@ Installation
 ------------
 
 
+
 To install this module, you just need to select the module and insure yourself dependencies are available.
 
 Configuration
 -------------
+
 
 
 No particular configuration to use this module except :
@@ -32,6 +34,8 @@ No particular configuration to use this module except :
 - add allowed user in the ACL group
 
 Usage
+-----
+
 -----
 
 =====
@@ -46,18 +50,23 @@ Known issues / Roadmap
 ----------------------
 
 
+
 Bug Tracker
 -----------
 
+
 Credits
 -------
+
 
 
 Module developed and tested with Odoo version 8.0
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * David DUFRESNE <david.dufresne@savoirfairelinux.com>
@@ -68,6 +77,8 @@ Module developed and tested with Odoo version 8.0
 ### Funders
 
 ### Maintainer
+
+
 
 
 Odoo Community Association

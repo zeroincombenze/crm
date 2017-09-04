@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
     :alt: License: AGPL-3
 =========================
@@ -24,6 +24,7 @@ Installation
 ------------
 
 
+
 To install this module, you need:
 
 * crm
@@ -32,7 +33,10 @@ To install this module, you need:
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -45,8 +49,10 @@ Usage
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -58,9 +64,12 @@ help us smash it by providing detailed and welcomed feedback.
 Credits
 -------
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 * Endika Iglesias <endikaig@antiun.com>
 * Rafael Blasco <rafael.blasco@tecnativa.com>
@@ -69,6 +78,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

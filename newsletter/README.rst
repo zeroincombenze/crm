@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 Newsletters
 ===========
@@ -21,6 +21,7 @@ on marketing campaigns with appropriate language and measuring tools.
 
 Installation
 ------------
+
 
 
 Under Sales/Configuration/Newsletter types, review the default one or create a
@@ -41,6 +42,7 @@ Configuration
 -------------
 
 
+
 There are three groups defined:
 
 newsletter editor
@@ -58,6 +60,8 @@ Note that the groups are listed in order of inheritance, so a newsletter sender
 always also is an editor and a manager is a sender as well as an editor.
 
 Usage
+-----
+
 -----
 
 =====
@@ -87,18 +91,23 @@ Known issues / Roadmap
 ----------------------
 
 
+
  * a glue module between this and mass_mailing would be nice
 
 Bug Tracker
 -----------
 
+
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Holger Brunn <hbrun@therp.nl>
@@ -106,6 +115,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

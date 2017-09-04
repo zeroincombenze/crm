@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
     :alt: License
 =================
@@ -24,6 +24,7 @@ Installation
 ------------
 
 
+
 To install this module, go to Settings > Local Modules and install it as usual.
 
 
@@ -31,11 +32,14 @@ Configuration
 -------------
 
 
+
 Go to Sales > Configuration > Address Book > Member withdrawal reason,
 to configure all available reasons you want
 
 
 Usage
+-----
+
 -----
 
 =====
@@ -49,14 +53,17 @@ Known issues / Roadmap
 ----------------------
 
 
+
 None
 
 
 Bug Tracker
 -----------
 
+
 Credits
 -------
+
 
 
 Icon
@@ -67,7 +74,9 @@ Icon
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Antonio Espinosa <antonioea@antiun.com>
@@ -75,6 +84,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

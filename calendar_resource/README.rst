@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 .. image:: https://img.shields.io/badge/license-AGPL--3-blue.svg
 ================================================================
@@ -30,10 +30,14 @@ This module adds new features to facilitate resource management with meetings:
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -53,8 +57,10 @@ Known Issues / Roadmap
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -66,13 +72,16 @@ Credits
 -------
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jordi RIERA <jordi.riera@savoirfairelinux.com>
@@ -82,6 +91,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png
