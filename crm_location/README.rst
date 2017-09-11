@@ -25,6 +25,7 @@ Installation
 
 
 
+
 To install this module, you need:
 
 * crm
@@ -34,7 +35,10 @@ Configuration
 -------------
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -50,8 +54,10 @@ Known issues / Roadmap
 ----------------------
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -65,10 +71,13 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 * Endika Iglesias <endikaig@antiun.com>
@@ -78,6 +87,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
