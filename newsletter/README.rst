@@ -24,6 +24,7 @@ Installation
 
 
 
+
 Under Sales/Configuration/Newsletter types, review the default one or create a
 new one. You'll have to fill in a name, a model, a domain expression on that
 model, an email template (have a look a the default newsletter type's email
@@ -40,6 +41,7 @@ this list ist not fixed and will be evaluated every time you send a newsletter.
 
 Configuration
 -------------
+
 
 
 
@@ -60,6 +62,8 @@ Note that the groups are listed in order of inheritance, so a newsletter sender
 always also is an editor and a manager is a sender as well as an editor.
 
 Usage
+-----
+
 -----
 
 -----
@@ -92,10 +96,12 @@ Known issues / Roadmap
 
 
 
+
  * a glue module between this and mass_mailing would be nice
 
 Bug Tracker
 -----------
+
 
 
 Credits
@@ -103,10 +109,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -115,6 +124,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

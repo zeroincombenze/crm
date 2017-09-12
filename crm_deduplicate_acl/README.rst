@@ -24,8 +24,10 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -57,6 +59,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 To use this module, you need to:
@@ -73,11 +77,13 @@ Known issues / Roadmap
 
 
 
+
 * Wizard's code is partially written in old API because somehow [possibly]
   the upstream's ``@mute_logger`` decorator prevents API from doing its magic.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -91,6 +97,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -100,7 +107,9 @@ Images
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -112,6 +121,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

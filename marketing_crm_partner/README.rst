@@ -24,8 +24,10 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -35,6 +37,8 @@ To configure this module, you need to:
 * Configure the available sources and campaigns from the menus there.
 
 Usage
+-----
+
 -----
 
 -----
@@ -63,12 +67,14 @@ Known issues / Roadmap
 
 
 
+
 * The new fields do not get copied to a lead object where you link the partner,
   but this is by design, because new leads from an already-existing partner not
   always come from the same campaign, source or channel.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -82,6 +88,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -89,7 +96,9 @@ Images
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -100,6 +109,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 
