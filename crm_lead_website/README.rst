@@ -24,8 +24,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -36,6 +38,8 @@ To see some effects of this module, you need to enable leads:
    qualification step before creating an opportunity or a customer*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -59,8 +63,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -77,11 +83,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -93,6 +102,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
