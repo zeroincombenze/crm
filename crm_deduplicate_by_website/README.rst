@@ -24,12 +24,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -54,8 +58,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -71,6 +77,7 @@ Credits
 
 
 
+
 Images
 
 * `Arrow <https://openclipart.org/detail/131875/convergent>`_.
@@ -79,7 +86,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -90,6 +99,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

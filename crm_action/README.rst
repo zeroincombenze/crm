@@ -26,10 +26,12 @@ Installation
 
 
 
+
 Just install the module as usual (it only depends on the native *crm* module).
 
 Configuration
 -------------
+
 
 
 
@@ -44,6 +46,8 @@ customize the email template in the menu *Settings > Technical > Email >
 Templates* and select the email template named *CRM Action reminder*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -73,8 +77,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -90,11 +96,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -108,6 +117,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

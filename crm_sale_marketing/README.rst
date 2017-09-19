@@ -26,6 +26,7 @@ Installation
 
 
 
+
 To install this module there is no external library required.
 
 1. Nothing required at all.
@@ -36,11 +37,14 @@ Configuration
 
 
 
+
 To configure this module, you need to:
 
 1. Give the Technical rights to the user.
 
 Usage
+-----
+
 -----
 
 -----
@@ -63,8 +67,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -85,6 +91,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -93,7 +100,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -104,6 +113,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

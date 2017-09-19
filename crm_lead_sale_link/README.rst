@@ -23,6 +23,7 @@ Installation
 
 
 
+
 To install this module, you just need to select the module and insure yourself dependancies are available.
 
 Configuration
@@ -31,9 +32,12 @@ Configuration
 
 
 
+
 No configuration to use this module.
 
 Usage
+-----
+
 -----
 
 -----
@@ -54,13 +58,16 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
 
 
 
+
 Credits
 -------
+
 
 
 
@@ -72,7 +79,9 @@ For questions, please contact our support services <support@savoirfairelinux.com
 
 
 
+
 ### Contributors
+
 
 
 
@@ -84,6 +93,8 @@ Bruno JOLIVEAU <bruno.joliveau@savoirfairelinux.com>
 ### Funders
 
 ### Maintainer
+
+
 
 
 

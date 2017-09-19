@@ -27,12 +27,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -58,8 +62,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -75,6 +81,7 @@ Credits
 
 
 
+
 Images
 
 * `Funnel <https://openclipart.org/detail/245510/funnel>`_.
@@ -84,7 +91,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -95,6 +104,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 
