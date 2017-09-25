@@ -27,13 +27,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -48,8 +52,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -61,7 +67,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -72,11 +80,14 @@ Credits
 
 
 
+
 * Romain Deheele (<romain.deheele@camptocamp.com>)
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

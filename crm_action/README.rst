@@ -24,10 +24,12 @@ Installation
 
 
 
+
 To install this module, you just need to select the module and insure yourself dependencies are available.
 
 Configuration
 -------------
+
 
 
 
@@ -38,6 +40,8 @@ No particular configuration to use this module except :
 - add allowed user in the ACL group
 
 Usage
+-----
+
 -----
 
 -----
@@ -61,14 +65,17 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
 
 
 
 
+
 Credits
 -------
+
 
 
 
@@ -81,7 +88,9 @@ Module developed and tested with Odoo version 8.0
 
 
 
+
 ### Contributors
+
 
 
 
@@ -95,6 +104,8 @@ Module developed and tested with Odoo version 8.0
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -27,6 +27,7 @@ Installation
 
 
 
+
 To install this module, go to Settings > Local Modules and install it as usual.
 
 
@@ -37,11 +38,14 @@ Configuration
 
 
 
+
 Go to Sales > Configuration > Address Book > Member withdrawal reason,
 to configure all available reasons you want
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -64,6 +68,7 @@ Known issues / Roadmap
 
 
 
+
 None
 
 
@@ -73,8 +78,10 @@ Bug Tracker
 
 
 
+
 Credits
 -------
+
 
 
 
@@ -91,7 +98,9 @@ Icon
 
 
 
+
 ### Contributors
+
 
 
 
@@ -102,6 +111,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 

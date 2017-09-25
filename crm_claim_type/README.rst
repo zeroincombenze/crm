@@ -26,10 +26,12 @@ Installation
 
 
 
+
 To install this module, you just need to select it from availables modules
 
 Configuration
 -------------
+
 
 
 
@@ -41,6 +43,8 @@ It contains a predefined set of claim types.
 If you want add your own types go to Sales > Configurations > Claim > Claim Types.
 
 Usage
+-----
+
 -----
 
 -----
@@ -69,8 +73,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -88,12 +94,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -105,6 +114,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
