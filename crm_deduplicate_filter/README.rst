@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Exclude some records from the deduplication
+===========================================
 
 This module extends the possibilities of the contact deduplication allowing
 to filter the applicable set according to several criteria.
@@ -37,6 +38,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -95,7 +98,6 @@ Images
 * `Funnel <https://openclipart.org/detail/245510/funnel>`_.
 * `Arrow <https://openclipart.org/detail/131875/convergent>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

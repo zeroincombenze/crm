@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Website in leads
+================
 
 This module was written to extend the functionality of CRM leads to support
 setting the website.
@@ -40,6 +41,8 @@ To see some effects of this module, you need to enable leads:
    qualification step before creating an opportunity or a customer*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -91,7 +94,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

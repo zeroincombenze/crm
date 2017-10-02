@@ -13,6 +13,7 @@
 ================================================================================================
 
 CRM addons for Odoo
+===================
 
 [//]: # (addons)
 
@@ -26,7 +27,7 @@ addon | version | OCA version | summary
 [crm_deduplicate_filter](crm_deduplicate_filter/) | 10.0.1.0.0 | :repeat: | Exclude records from the deduplication
 [crm_lead_website](crm_lead_website/) | 10.0.1.0.0 | :repeat: | Add Website field to leads
 [crm_location](crm_location/) | 10.0.1.0.0 | :repeat: | CRM location
-[crm_phonecall](crm_phonecall/) | 10.0.1.0.0 | :repeat: | CRM Phone Calls
+[crm_phonecall](crm_phonecall/) | 10.0.1.0.0 | 10.0.1.1.0 | CRM Phone Calls
 [crm_phonecall_summary_predefined](crm_phonecall_summary_predefined/) | 10.0.1.0.0 | :repeat: | Allows to choose from a defined summary list
 [crm_sale_marketing](crm_sale_marketing/) | 10.0.1.0.0 | :repeat: | Marketing Details of Sales
 [crm_sector](crm_sector/) | 10.0.1.0.0 | :repeat: | Link leads/opportunities to sectors
@@ -40,7 +41,7 @@ addon | version | OCA version | summary
 [crm_claim_code](crm_claim_code/) | 9.0.1.0.0 (unported) | :repeat: | Sequential Code for Claims
 [crm_claim_type](crm_claim_type/) | 9.0.1.0.0 (unported) | :repeat: | Claim types for CRM
 [crm_lead_address_street3](crm_lead_address_street3/) | 8.0.0.1.0 (unported) | :repeat: | Street3 in lead addresses
-[crm_lead_code](crm_lead_code/) | 8.0.1.0.0 (unported) | :repeat: | Sequential Code for Leads / Opportunities
+[crm_lead_code](crm_lead_code/) | 8.0.1.0.0 (unported) | 10.0.1.0.0 | Sequential Code for Leads / Opportunities
 [crm_lead_sale_link](crm_lead_sale_link/) | 8.0.1.0.0 (unported) | :repeat: | CRM Lead Sale Link
 [crm_lead_stage_monitoring](crm_lead_stage_monitoring/) | 1.0.0 (unported) | :repeat: | CRM - Add last activity on stage field
 [crm_track_next_action](crm_track_next_action/) | 8.0.1.0.0 (unported) | :repeat: | CRM Track Next Action

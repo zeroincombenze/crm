@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Deduplicate Contacts ACL
+========================
 
 This module extends the functionality of the CRM contact deduplicator to add
 permission groups that allow the matching users to use those tools, not
@@ -59,6 +60,8 @@ To configure this module, you need to:
         this permission for him.
 
 Usage
+-----
+
 -----
 
 -----
@@ -116,7 +119,6 @@ Images
 * `Arrow <https://openclipart.org/detail/131875/convergent>`_.
 * `Lock <http://fontawesome.io/icon/unlock-alt/>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

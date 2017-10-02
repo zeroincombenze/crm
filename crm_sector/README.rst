@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 CRM Sector
+==========
 
 This module adds the concept of economic sector for leads and opportunities.
 
@@ -33,6 +34,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -82,7 +85,6 @@ Images
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 
-[![Odoo Italia Associazione]]
 
 
 

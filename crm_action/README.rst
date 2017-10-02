@@ -50,6 +50,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 To use this module, you need to :
@@ -83,7 +85,6 @@ Credits
 
 Module developed and tested with Odoo version 8.0
 
-[![Odoo Italia Associazione]]
 
 
 

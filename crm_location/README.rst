@@ -14,6 +14,7 @@
 =========================
 
 CRM location
+============
 
 This module introduces a better zip.
 
@@ -41,6 +42,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -86,7 +89,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 
