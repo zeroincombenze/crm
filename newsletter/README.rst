@@ -78,6 +78,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 After a newsletter type is configured, the handling is pretty straightworfard:
