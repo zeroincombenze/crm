@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Restricted Summary for Phone Calls
+==================================
 
 This module extends the functionality of CRM phone calls to support setting a
 limited list of possible phone call summaries, that only the sales manager can
@@ -26,8 +27,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -40,6 +43,10 @@ to:
 Summaries*.
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -63,8 +70,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -82,16 +91,18 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -104,6 +115,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

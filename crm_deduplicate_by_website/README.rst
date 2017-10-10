@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Deduplicate Contacts by website
+===============================
 
 This module extends the criteria to match duplicated contacts using the field
 website.
@@ -25,13 +26,19 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -59,8 +66,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -78,16 +87,18 @@ Credits
 
 
 
+
 Images
 
 * `Arrow <https://openclipart.org/detail/131875/convergent>`_.
 
-[![Odoo Italia Associazione]]
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -99,6 +110,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -13,6 +13,7 @@
 ================================================================================================
 
 CRM addons for Odoo
+===================
 
 [//]: # (addons)
 
@@ -29,7 +30,7 @@ addon | version | OCA version | summary
 [crm_deduplicate_by_website](crm_deduplicate_by_website/) | 9.0.1.0.0 | :repeat: | Deduplicate Contacts by Website
 [crm_deduplicate_filter](crm_deduplicate_filter/) | 9.0.1.0.0 | :repeat: | Exclude records from the deduplication
 [crm_lead_website](crm_lead_website/) | 9.0.1.0.0 | :repeat: | Add Website field to leads
-[crm_phonecall](crm_phonecall/) | 9.0.1.0.0 | :repeat: | CRM Phone Calls
+[crm_phonecall](crm_phonecall/) | 9.0.1.0.0 | 9.0.1.1.0 | CRM Phone Calls
 [crm_phonecall_summary_predefined](crm_phonecall_summary_predefined/) | 9.0.1.0.0 | :repeat: | Allows to choose from a defined summary list
 [crm_sale_marketing](crm_sale_marketing/) | 9.0.1.0.0 | :repeat: | Marketing Details of Sales
 [marketing_crm_partner](marketing_crm_partner/) | 9.0.1.0.0 | :repeat: | Copy tracking fields from leads to partners

@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Deduplicate Contacts ACL
+========================
 
 This module extends the functionality of the CRM contact deduplicator to add
 permission groups that allow the matching users to use those tools, not
@@ -26,8 +27,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -65,6 +68,10 @@ Usage
 
 -----
 
+-----
+
+-----
+
 =====
 
 To use this module, you need to:
@@ -83,11 +90,13 @@ Known issues / Roadmap
 
 
 
+
 * Wizard's code is partially written in old API because somehow [possibly]
   the upstream's ``@mute_logger`` decorator prevents API from doing its magic.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -105,18 +114,20 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 * `Arrow <https://openclipart.org/detail/131875/convergent>`_.
 * `Lock <http://fontawesome.io/icon/unlock-alt/>`_.
 
-[![Odoo Italia Associazione]]
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -130,6 +141,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

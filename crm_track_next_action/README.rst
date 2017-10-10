@@ -14,6 +14,7 @@
 =========================
 
 CRM Track Next Action
+=====================
 
 A message will be created in the message history when the next action fields are updated
 on an opportunity with the old and the new values so you can easily keep track of the
@@ -22,6 +23,7 @@ history of changes.
 
 Installation
 ------------
+
 
 
 
@@ -38,7 +40,12 @@ Configuration
 
 
 
+
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -53,8 +60,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -72,12 +81,14 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -89,6 +100,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

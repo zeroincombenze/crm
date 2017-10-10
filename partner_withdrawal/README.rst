@@ -14,6 +14,7 @@
 =================
 
 Partner Membership withdrawal
+=============================
 
 This module was written to extend the functionality of partner and support
 tracking of members signup and withdrawal. Also, allows to select a withdrawal
@@ -22,6 +23,7 @@ reason from a configurated list of reasons
 
 Installation
 ------------
+
 
 
 
@@ -37,11 +39,16 @@ Configuration
 
 
 
+
 Go to Sales > Configuration > Address Book > Member withdrawal reason,
 to configure all available reasons you want
 
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -64,11 +71,13 @@ Known issues / Roadmap
 
 
 
+
 None
 
 
 Bug Tracker
 -----------
+
 
 
 
@@ -80,13 +89,14 @@ Credits
 
 
 
+
 Icon
 ----
 
 * Original source : https://thenounproject.com/term/add-group/79375 by Mundo (https://thenounproject.com/DMundo), 2014
 * Modified by Antonio Espinosa using GIMP image editor, 2015
 
-[![Odoo Italia Associazione]]
+
 
 
 
@@ -97,11 +107,14 @@ Icon
 
 
 
+
 * Antonio Espinosa <antonioea@antiun.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

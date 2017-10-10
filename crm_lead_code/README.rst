@@ -14,6 +14,7 @@
 =========================
 
 Sequential code for Leads / Opportunities
+=========================================
 
 * This module adds a sequential code for leads / opportunities.
 
@@ -24,13 +25,19 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -45,8 +52,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -65,12 +74,14 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -83,6 +94,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -16,12 +16,14 @@
    :alt: License: AGPL-3
 
 Sales Marketing
+===============
 
 This module extends the functionality of sale_crm module which copies the marketing data  
 from lead to sale and allows one to keep track of sales generated from marketing source.
 
 Installation
 ------------
+
 
 
 
@@ -38,11 +40,16 @@ Configuration
 
 
 
+
 To configure this module, you need to:
 
 1. Give the Technical rights to the user.
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -68,8 +75,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -92,16 +101,18 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -113,6 +124,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

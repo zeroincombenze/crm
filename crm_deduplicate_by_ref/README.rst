@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Deduplicate Contacts by reference
+=================================
 
 This module extends the criteria to match duplicated contacts using the field
 reference.
@@ -25,13 +26,19 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -59,8 +66,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -78,11 +87,12 @@ Credits
 
 
 
+
 Images
 
 * `Arrow <https://openclipart.org/detail/131875/convergent>`_.
 
-[![Odoo Italia Associazione]]
+
 
 
 
@@ -93,11 +103,14 @@ Images
 
 
 
+
 * Pedro M. Baeza <pedro.baeza@tecnativa.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

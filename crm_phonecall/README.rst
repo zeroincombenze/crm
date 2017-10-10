@@ -15,11 +15,13 @@
    :alt: License: AGPL-3
 
 Crm Phonecalls
+==============
 
 * This module allows to manage phone calls in order to analyze them.
 
 Installation
 ------------
+
 
 
 
@@ -30,7 +32,12 @@ Configuration
 
 
 
+
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -62,8 +69,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -81,12 +90,14 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -98,6 +109,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

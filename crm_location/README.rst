@@ -14,6 +14,7 @@
 =========================
 
 CRM location
+============
 
 This module introduces a better zip.
 
@@ -22,6 +23,7 @@ It enables zip, city, state and country auto-completion on lead.
 
 Installation
 ------------
+
 
 
 
@@ -39,7 +41,12 @@ Configuration
 
 
 
+
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -54,8 +61,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -73,12 +82,14 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
+
 
 
 
 
 ### Contributors
+
 
 
 
@@ -90,6 +101,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
