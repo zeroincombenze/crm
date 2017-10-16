@@ -42,17 +42,11 @@ No particular configuration to use this module except :
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
------
 
 =====
 

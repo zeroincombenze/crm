@@ -40,17 +40,11 @@ No configuration to use this module.
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
------
 
 =====
 

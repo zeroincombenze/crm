@@ -38,7 +38,7 @@ Unported addons
 addon | version | OCA version | summary
 --- | --- | --- | ---
 [crm_action](crm_action/) | 8.0.1.1.0 (unported) | :repeat: | CRM Action
-[crm_claim_code](crm_claim_code/) | 9.0.1.0.0 (unported) | :repeat: | Sequential Code for Claims
+[crm_claim_code](crm_claim_code/) | 9.0.1.0.0 (unported) | 10.0.1.0.0 | Sequential Code for Claims
 [crm_claim_type](crm_claim_type/) | 9.0.1.0.0 (unported) | :repeat: | Claim types for CRM
 [crm_lead_address_street3](crm_lead_address_street3/) | 8.0.0.1.0 (unported) | :repeat: | Street3 in lead addresses
 [crm_lead_code](crm_lead_code/) | 8.0.1.0.0 (unported) | 10.0.1.0.0 | Sequential Code for Leads / Opportunities
