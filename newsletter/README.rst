@@ -68,15 +68,10 @@ always also is an editor and a manager is a sender as well as an editor.
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 

@@ -46,15 +46,10 @@ If you want add your own types go to Sales > Configurations > Claim > Claim Type
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 

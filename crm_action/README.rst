@@ -51,15 +51,10 @@ Templates* and select the email template named *CRM Action reminder*.
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
 =====
 
