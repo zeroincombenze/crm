@@ -6,6 +6,9 @@ python:
 sudo: false
 cache: pip
 
+git:
+  submodules: false
+
 addons:
   apt:
     packages:
@@ -27,11 +30,16 @@ env:
 virtualenv:
   system_site_packages: true
 
+before_install:
+  - git clone https://github.com/zeroincombenze/tools.git ${HOME}/tools --depth=1
+  - mv ${HOME}/tools/maintainer-quality-tools ${HOME}
+  - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
+
 install:
   - pip install unicodecsv
-  - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
+  # - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
   - git clone --depth=1 https://github.com/OCA/partner-contact.git ${HOME}/partner-contact
-  - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
+  # - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
   - travis_install_nightly
 # example: dependency
   - git clone --depth=1 https://github.com/OCA/web -b ${VERSION} $HOME/web
