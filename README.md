@@ -24,6 +24,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 CRM addons for Odoo
@@ -37,7 +39,7 @@ Available addons
 addon | version | OCA version | summary
 --- | --- | --- | ---
 [calendar_resource](calendar_resource/) | 10.0.1.0.0 | 10.0.1.1.0 | New features to facilitate resource management with meetings.
-[crm_deduplicate_acl](crm_deduplicate_acl/) | 10.0.1.0.0 | :repeat: | Contact deduplication with fine-grained permission control
+[crm_deduplicate_acl](crm_deduplicate_acl/) | 10.0.1.0.0 | 10.0.1.0.1 | Contact deduplication with fine-grained permission control
 [crm_deduplicate_filter](crm_deduplicate_filter/) | 10.0.1.0.0 | :repeat: | Exclude records from the deduplication
 [crm_lead_website](crm_lead_website/) | 10.0.1.0.0 | :repeat: | Add Website field to leads
 [crm_location](crm_location/) | 10.0.1.0.0 | :repeat: | CRM location
