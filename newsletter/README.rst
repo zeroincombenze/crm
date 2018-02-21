@@ -1,3 +1,45 @@
+[![Build Status](https://travis-ci.org/zeroincombenze/crm.svg?branch=8.0)](https://travis-ci.org/zeroincombenze/crm)
+[![license agpl](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
+[![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/crm/badge.svg?branch=8.0)](https://coveralls.io/github/zeroincombenze/crm?branch=8.0)
+[![codecov](https://codecov.io/gh/zeroincombenze/crm/branch/8.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/crm/branch/8.0)
+[![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-8.svg)](https://github.com/OCA/crm/tree/8.0)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/8.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/8.0/man/)
+[![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+
 Newsletters
 ===========
 With this addon, you can send HTML-formatted mass emails to your customers.
@@ -8,7 +50,11 @@ This is something else than the mass_mailing module, which is geared very much
 on marketing campaigns with appropriate language and measuring tools.
 
 Installation
-============
+------------
+
+
+
+
 
 Under Sales/Configuration/Newsletter types, review the default one or create a
 new one. You'll have to fill in a name, a model, a domain expression on that
@@ -25,7 +71,11 @@ receive a newsletter of this type. We work with dynamic selections here, so
 this list ist not fixed and will be evaluated every time you send a newsletter.
 
 Configuration
-=============
+-------------
+
+
+
+
 
 There are three groups defined:
 
@@ -44,6 +94,15 @@ Note that the groups are listed in order of inheritance, so a newsletter sender
 always also is an editor and a manager is a sender as well as an editor.
 
 Usage
+-----
+
+
+
+
+
+
+
+
 =====
 
 After a newsletter type is configured, the handling is pretty straightworfard:
@@ -61,28 +120,57 @@ as dataurl into the resulting email. This is good for your customers' privacy,
 but bad for bandwidth, so take care to chose reasonable image sizes.
 
 It is mandatory that you click on 'Preview' before you are allowed to finally
-send the newsletter. The sending process uses OpenERP's standard email queue.
+send the newsletter. The sending process uses Odoo's standard email queue.
 
 For further information, please visit:
 
  * https://www.odoo.com/forum/help-1
 
 Known issues / Roadmap
-======================
+----------------------
+
+
+
+
 
  * a glue module between this and mass_mailing would be nice
 
-=======
-Credits
-=======
+Bug Tracker
+-----------
 
-Contributors
-------------
+
+
+
+Credits
+-------
+
+
+
+
+
+
+
+
+
+
+### Contributors
+
+
+
+
 
 * Holger Brunn <hbrun@therp.nl>
 
-Maintainer
-----------
+### Funders
+### Maintainer
+
+
+
+
+
+
+
+
 
 .. image:: http://odoo-community.org/logo.png
    :alt: Odoo Community Association
@@ -93,3 +181,27 @@ This module is maintained by the OCA.
 OCA, or the Odoo Community Association, is a nonprofit organization whose mission is to support the collaborative development of Odoo features and promote its widespread use.
 
 To contribute to this module, please visit http://odoo-community.org.
+
+[//]: # (copyright)
+
+----
+
+**Odoo** is a trademark of [Odoo S.A.](https://www.odoo.com/) (formerly OpenERP, formerly TinyERP)
+
+**OCA**, or the [Odoo Community Association](http://odoo-community.org/), is a nonprofit organization whose
+mission is to support the collaborative development of Odoo features and
+promote its widespread use.
+
+**zeroincombenze®** is a trademark of [SHS-AV s.r.l.](http://www.shs-av.com/)
+which distributes and promotes **Odoo** ready-to-use on its own cloud infrastructure.
+[Zeroincombenze® distribution](http://wiki.zeroincombenze.org/en/Odoo)
+is mainly designed for Italian law and markeplace.
+Everytime, every Odoo DB and customized code can be deployed on local server too.
+
+[//]: # (end copyright)
+
+[//]: # (addons)
+
+[//]: # (end addons)
+
+[![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
