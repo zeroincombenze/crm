@@ -5,6 +5,9 @@ python:
 sudo: false
 cache: pip
 
+git:
+  submodules: false
+
 addons:
   apt:
     packages:
@@ -18,10 +21,15 @@ env:
   - VERSION="7.0" ODOO_REPO="odoo/odoo"
   - VERSION="7.0" ODOO_REPO="OCA/OCB"
 
-install:
-  - git clone https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
-  - git clone https://github.com/OCA/web.git ${HOME}/web -b ${VERSION}
+before_install:
+  - git clone https://github.com/zeroincombenze/tools.git ${HOME}/tools --depth=1
+  - mv ${HOME}/tools/maintainer-quality-tools ${HOME}
   - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
+
+install:
+  # - git clone https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
+  - git clone https://github.com/OCA/web.git ${HOME}/web -b ${VERSION}
+  # - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
   - travis_install_nightly
 
 script:

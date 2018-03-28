@@ -8,10 +8,48 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-7.svg)](http://erp7.zeroincombenze.it)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
-================================================================================================
 
 CRM addons for Odoo
+===================
 
 [//]: # (copyright)
 
@@ -30,5 +68,20 @@ is mainly designed for Italian law and markeplace.
 Everytime, every Odoo DB and customized code can be deployed on local server too.
 
 [//]: # (end copyright)
+
+[//]: # (addons)
+
+
+Available addons
+----------------
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[crm_claim_merge](crm_claim_merge/) | 1.0 | :repeat: | Claims Merge
+[crm_lead_stage_monitoring](crm_lead_stage_monitoring/) | 1.0.0 | :repeat: | CRM - Add last activity on stage field
+[lettermgmt](lettermgmt/) | 1.1 | :repeat: | Track letters, parcels, registered documents
+[newsletter](newsletter/) | 1.0 | :repeat: | Newsletters
+[newsletter_save_addressee](newsletter_save_addressee/) | 1.0 | :repeat: | Save addressees of newsletters
+
+[//]: # (end addons)
 
 [![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
