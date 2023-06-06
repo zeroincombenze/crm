@@ -17,5 +17,5 @@
         "views/templates.xml",
     ],
     "auto_install": True,
-    "installable": True,
+    "installable": False,
 }
