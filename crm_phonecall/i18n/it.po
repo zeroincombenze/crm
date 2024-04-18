@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * crm_phonecall
-# 
+#
 # Translators:
 # OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
@@ -9,14 +9,15 @@ msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-01 02:38+0000\n"
-"PO-Revision-Date: 2017-06-01 02:38+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
+"PO-Revision-Date: 2024-02-12 10:40+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (https://www.transifex.com/oca/teams/23907/it/)\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. module: crm_phonecall
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall_report_nbr_cases
@@ -228,7 +229,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall_display_name
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall_report_display_name
 msgid "Display Name"
-msgstr "Nome da visualizzare"
+msgstr "Nome visualizzato"
 
 #. module: crm_phonecall
 #: selection:crm.phonecall.report,state:0
@@ -274,8 +275,7 @@ msgid "Held"
 msgstr ""
 
 #. module: crm_phonecall
-#: selection:crm.phonecall,priority:0
-#: selection:crm.phonecall.report,priority:0
+#: selection:crm.phonecall,priority:0 selection:crm.phonecall.report,priority:0
 msgid "High"
 msgstr ""
 
@@ -303,7 +303,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall___last_update
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall_report___last_update
 msgid "Last Modified on"
-msgstr "Ultima Modifica il"
+msgstr "Ultima modifica il"
 
 #. module: crm_phonecall
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall2phonecall_write_uid
@@ -321,7 +321,7 @@ msgstr "Ultimo aggiornamento il"
 #: model:ir.model,name:crm_phonecall.model_crm_lead
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall_opportunity_id
 msgid "Lead/Opportunity"
-msgstr "Lead/Opportunità"
+msgstr "Contatto/Opportunità"
 
 #. module: crm_phonecall
 #: model:ir.ui.view,arch_db:crm_phonecall.phonecall_to_phonecall_view
@@ -340,8 +340,7 @@ msgid "Logged Calls"
 msgstr ""
 
 #. module: crm_phonecall
-#: selection:crm.phonecall,priority:0
-#: selection:crm.phonecall.report,priority:0
+#: selection:crm.phonecall,priority:0 selection:crm.phonecall.report,priority:0
 msgid "Low"
 msgstr ""
 
@@ -397,8 +396,7 @@ msgid "Next Action"
 msgstr ""
 
 #. module: crm_phonecall
-#: selection:crm.phonecall,priority:0
-#: selection:crm.phonecall.report,priority:0
+#: selection:crm.phonecall,priority:0 selection:crm.phonecall.report,priority:0
 msgid "Normal"
 msgstr ""
 
@@ -433,7 +431,8 @@ msgstr ""
 #: model:ir.actions.act_window,help:crm_phonecall.crm_case_categ_phone_incoming0
 msgid ""
 "Odoo allows you to log inbound calls on the fly to track the\n"
-"            history of the communication with a customer or to inform another\n"
+"            history of the communication with a customer or to inform "
+"another\n"
 "            team member."
 msgstr ""
 
@@ -468,7 +467,7 @@ msgid "Phone"
 msgstr ""
 
 #. module: crm_phonecall
-#: code:addons/crm_phonecall/models/crm_phonecall.py:193
+#: code:addons/crm_phonecall/models/crm_phonecall.py:203
 #: model:ir.ui.view,arch_db:crm_phonecall.crm_case_phone_form_view
 #, python-format
 msgid "Phone Call"
@@ -676,6 +675,11 @@ msgstr ""
 #: selection:crm.phonecall.report,state:0
 #: model:ir.ui.view,arch_db:crm_phonecall.view_report_crm_phonecall_filter
 msgid "Todo"
+msgstr ""
+
+#. module: crm_phonecall
+#: model:ir.ui.view,arch_db:crm_phonecall.crm_case_phone_form_view
+msgid "Tracking"
 msgstr ""
 
 #. module: crm_phonecall

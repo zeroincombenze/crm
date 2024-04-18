@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/zeroincombenze/crm.svg?branch=10.0)](https://travis-ci.org/zeroincombenze/crm)
 [![license agpl](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/crm/badge.svg?branch=10.0)](https://coveralls.io/github/zeroincombenze/crm?branch=10.0)
@@ -41,13 +42,20 @@
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
     :alt: License: AGPL-3
+=======
+.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+   :alt: License: AGPL-3
+>>>>>>> upstream/10.0
 
+=========================================
 Sequential code for Leads / Opportunities
 =========================================
 
 * This module adds a sequential code for leads / opportunities.
 
 
+<<<<<<< HEAD
 Installation
 ------------
 
@@ -76,6 +84,11 @@ Known issues / Roadmap
 
 
 
+=======
+.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
+   :alt: Try me on Runbot
+   :target: https://runbot.odoo-community.org/runbot/111/10.0
+>>>>>>> upstream/10.0
 
 
 Bug Tracker
@@ -89,7 +102,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/crm/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed feedback
-`here <https://github.com/OCA/crm/issues/new?body=module:%20crm_lead_code%0Aversion:%208.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`here <https://github.com/OCA/crm/issues/new?body=module:%20crm_lead_code%0Aversion:%2010.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 
 Credits
@@ -115,6 +128,7 @@ Credits
 * Oihane Crucelaegui <oihanecrucelaegi@avanzosc.es>
 * Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
 * Ana Juaristi <anajuarist@avanzosc.es>
+* Nicolás Ramos <contacto@difusionvisual.com>
 
 ### Funders
 

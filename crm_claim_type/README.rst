@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/zeroincombenze/crm.svg?branch=10.0)](https://travis-ci.org/zeroincombenze/crm)
 [![license agpl](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/crm/badge.svg?branch=10.0)](https://coveralls.io/github/zeroincombenze/crm?branch=10.0)
@@ -40,6 +41,10 @@
 
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
+=======
+.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+>>>>>>> upstream/10.0
     :alt: License: AGPL-3
 
 CRM Claim Types
@@ -137,6 +142,7 @@ Credits
 
 * Yanina Aular <yanina.aular@vauxoo.com>
 * Osval Reyes <osval@vauxoo.com>
+* Bhavesh Odedra <bodedra@ursainfosystems.com>
 
 ### Funders
 
